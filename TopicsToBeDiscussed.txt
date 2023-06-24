@@ -1,0 +1,26 @@
+####### DAY 2 ########
+
+Introduction to the Requirement
+Setting up the project
+Implementing Basic Routing
+Adding Place routes required for application(getting place by place id "/api/places/:pid")
+Getting a place By User Id ("/api/places/user/:uid")
+
+###### DAY 3 ########
+make places by user id to give multiple places.
+Handling errors
+MVC and configure controllers
+POST CALL for places
+
+###### DAY 4 ########
+PATCH CALL for updating (task) 
+DELETE CALL (task)
+USER API = Login, signup , getUsers 
+
+
+###### DAY 5 ########
+1. Installing Mongoose ,Creating MongoDB Database in MongoDb Atlas
+2. Creating PlaceSchema and model
+3. Creating and storing document in MongoDB (Implementing createplace);
+4. getting places by the PlaceId.
+
